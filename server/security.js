@@ -1,0 +1,1 @@
+Coffee.permit(['remove','update','insert']).ifHasRole('admin').apply();
